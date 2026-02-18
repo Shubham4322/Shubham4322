@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/278ee301-0161-415b-bac9-1321c2332551" alt="Shubham Bhingude" width="180" height="180" style="border-radius: 50%; border: 4px solid #092E20; object-fit: cover; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  <img src="https://github.com/user-attachments/assets/278ee301-0161-415b-bac9-1321c2332551" alt="Shubham Bhingude" width="180" height="180" style="border-radius: 80%; border: 4px solid #092E20; object-fit: cover; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
   
   <br/><br/>
 
