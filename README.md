@@ -1,93 +1,114 @@
-<h1 align="center">Shubham Bhingude</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=092E20&height=200&section=header&text=shubham.execute()&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
-<p align="center">
-  Full Stack Developer | Backend-Focused Engineer | MCA 2025
-</p>
+<div align="center">
+  <img src="https://via.placeholder.com/180x180.png?text=Add+Photo+Here" alt="Shubham Bhingude" width="180" height="180" style="border-radius: 50%; border: 4px solid #092E20; object-fit: cover; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  
+  <br/><br/>
 
-<p align="center">
-  Pune, Maharashtra • Open to Software Development Roles
-</p>
+  <a href="https://github.com/Shubham4322">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Python+Developer+%7C+Full-Stack+Web+Engineer;Building+scalable+software+solutions;Passionate+about+REST+APIs+%26+Backend+Dev" alt="Typing Animation" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="mailto:shubhambhingude@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/shubham4846">LinkedIn</a> •
-  <a href="https://github.com/Shubham4322">GitHub</a>
-</p>
+<div align="center">
+  <a href="mailto:shubhambhingude@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/shubham4846"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/shubhambhingude"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <img src="https://img.shields.io/badge/Phone-%2B91_6361190798-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+</div>
 
----
+<br/>
 
-## Profile
-
-MCA graduate with hands-on experience in building scalable full-stack web applications using Django, React, and SQL databases.  
-Internship experience in ASP.NET & MySQL development with strong focus on backend logic, REST API design, and database optimization.
-
-Strong foundation in problem-solving, structured development, and clean code practices.
-
----
-
-## Technical Skills
-
-**Languages**  
-Python, JavaScript  
-
-**Backend Development**  
-Django, ASP.NET, REST APIs  
-
-**Frontend Development**  
-HTML5, CSS3, React  
-
-**Databases**  
-MySQL, PostgreSQL, Oracle  
-
-**Core Engineering Concepts**  
-CRUD Operations, Database Design, Authentication Systems, API Architecture, Query Optimization  
+> **SUMMARY:** Python Developer with hands-on experience in building full-stack web applications using Django, React, and SQL databases. Completed a web development internship with practical exposure to ASP.NET and MySQL. Strong interest in backend development, REST APIs, and problem-solving, with a passion for learning and building scalable software solutions.
 
 ---
 
-## Professional Experience
+### ⚙️ Technical Arsenal
 
-### Web Development Intern  
-Revolution IT Solution, Kolhapur  
-June 2024 – August 2024  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,django,dotnet,react,html,css,postgres,mysql,git,postman&perline=11" alt="Tech Stack Icons" />
+</div>
+<br/>
 
-- Developed dynamic web applications using ASP.NET & MySQL  
-- Implemented structured CRUD workflows  
-- Optimized database queries for improved performance  
-- Assisted in debugging, testing, and backend maintenance  
-
----
-
-## Selected Projects
-
-### Pylearn – Python Learning Platform  
-Full-stack application built using React and Django REST Framework.  
-
-- Designed and implemented 9 REST API endpoints  
-- Integrated JWT-based authentication  
-- Built interactive Python code execution module  
-- Used PostgreSQL for structured data persistence  
-- Deployed frontend on Vercel and backend on Render  
+* **Programming Languages:** Python, JavaScript
+* **Backend:** Django, ASP.NET, REST APIs
+* **Frontend:** HTML5, CSS3, React
+* **Databases:** MySQL, PostgreSQL, Oracle
+* **Core Concepts:** CRUD Operations, Database Design, Authentication
+* **Soft Skills:** Problem Solving, Communication, Adaptability, Team Collaboration
 
 ---
 
-### Online Library Management System  
+### 📂 Interactive Resume `cv.json`
+*(Click the arrows to expand my experience and education)*
 
-- Designed structured database schema  
-- Implemented book, member, and transaction modules  
-- Developed admin inventory and reporting features  
-- Ensured data integrity with optimized SQL queries  
+<details>
+  <summary><b>💼 EXPERIENCE</b></summary>
+  <br/>
+  
+  **Qspiders Training Institute | Python Full Stack Development Trainee** *July 2025 – Present*
+  * Trained in HTML, CSS, JavaScript, Django, React, and SQL with hands-on practice.
+  * Built full-stack features including routing, forms, authentication, and CRUD operations.
+  * Developed responsive user interfaces with clean and structured layouts.
+  * Implemented backend logic and data handling using Django ORM and SQL databases.
+  * Completed 40+ hours of classroom training focused on debugging and best practices.
+
+  **Revolution IT Solution | Web Development Intern** *(Kolhapur, Maharashtra)* *June 2024 – August 2024*
+  * Developed dynamic web applications using ASP.NET and MySQL.
+  * Designed and implemented application modules to enhance performance and usability.
+  * Executed efficient CRUD operations and optimized database queries.
+  * Assisted in debugging, testing, and maintaining backend functionality.
+  * Gained hands-on experience in real-world web application development.
+</details>
+
+<details>
+  <summary><b>🎓 EDUCATION</b></summary>
+  <br/>
+
+  **Master of Computer Applications (MCA)** *KIT’s IMER, Kolhapur | 2023 – 2025* *CGPA: 8.3 / 10.0*
+
+  **Bachelor of Science in Computer Science (B.Sc. CS)** *R.B.M. College, Chandgad | Graduated 2023* *Percentage: 80%*
+</details>
 
 ---
 
-## GitHub Metrics
+### 🚀 Engineering Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham4322&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham4322&layout=compact&hide_border=true" height="160"/>
-</p>
+#### 🐍 [Pylearn | Python Learning Platform](https://python-learning-platform-xi-lilac.vercel.app)
+* Developed a full-stack web application using React.js and Django REST Framework with JWT-based authentication for secure user access.
+* Designed and implemented RESTful APIs (9 endpoints) to manage users, learning topics, questions, and progress tracking.
+* Built an interactive in-browser Python code editor with code execution and output validation to support hands-on learning.
+* Integrated PostgreSQL for data persistence and deployed the application using Vercel (frontend) and Render (backend).
+
+#### 📚 Online Library Management System
+* Designed a system to manage books, members, and issue/return transactions.
+* Implemented structured database design with optimized SQL queries.
+* Performed efficient CRUD operations to maintain data integrity.
+* Improved user experience with dynamic search and responsive UI.
+* Built admin modules for book inventory, member management, and reporting.
 
 ---
 
-<p align="center">
-  Consistent learner. Focused on backend systems and scalable application design.
-</p>
+### 🧠 Algorithmic Problem Solving & GitHub Stats
+
+<div align="center">
+  <a href="https://leetcode.com/shubhambhingude">
+    <img src="https://leetcard.jacoblin.cool/shubhambhingude?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham4322&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&line_height=28" alt="GitHub Stats" />
+</div>
+
+---
+
+### 🐍 Contribution Graph Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham4322/Shubham4322/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham4322/Shubham4322/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shubham4322/Shubham4322/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
