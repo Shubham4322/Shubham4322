@@ -1,17 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=092E20&height=200&section=header&text=shubham.execute()&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/221156213?v=4"
-       alt="Shubham Bhingude"
-       width="180"
-       height="180"
-       style="border-radius:50%;" />
-</div>
-
-
-  
+</div>  
   <br/><br/>
 
   <a href="https://github.com/Shubham4322">
