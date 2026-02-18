@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/278ee301-0161-415b-bac9-1321c2332551"
+  <img src="[https://github.com/user-attachments/assets/278ee301-0161-415b-bac9-1321c2332551](https://avatars.githubusercontent.com/u/221156213?s=400&u=2cf5743aef7435030a85809b4fe0c27ba4f0c211&v=4)"
        alt="Shubham Bhingude"
        width="180"
        height="180" />
