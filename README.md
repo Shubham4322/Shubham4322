@@ -8,7 +8,7 @@
   <br/><br/>
 
   <a href="https://github.com/Shubham4322">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Python+Developer+%7C+Full-Stack+Web+Engineer;Building+scalable+software+solutions;Passionate+about+REST+APIs+%26+Backend+Dev" alt="Typing Animation" />
+    <img src="https://github.com/user-attachments/assets/278ee301-0161-415b-bac9-1321c2332551" />
   </a>
 </div>
 
